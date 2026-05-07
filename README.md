@@ -38,13 +38,13 @@
 
 # 🔥 GitHub Streak
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight)
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight)
 
 ---
 
