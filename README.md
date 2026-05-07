@@ -59,7 +59,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Muh-Asad-Habib&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muh-Asad-Habib&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
   
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Muh-Asad-Habib&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
