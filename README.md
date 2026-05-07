@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Muh. As'ad Habib
 
-<!--
-**Muh-Asad-Habib/Muh-Asad-Habib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student at Unismuh Makassar  
+💻 Front-End & Programming Enthusiast  
+🎨 Interested in UI/UX Design and Modern Web Interfaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+
+## 🌐 Front-End
+- HTML
+- CSS
+- JavaScript
+
+## ⚙️ Programming Languages
+- Java
+- Python
+
+## 🎨 UI/UX Design
+- Figma
+
+---
+
+# 🚀 Currently Learning
+- Modern Web Development
+- Responsive UI Design
+- Software Development
+- Git & GitHub
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muh-Asad-Habib&show_icons=true&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight)
+
+---
+
+# 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/github-contribution-grid-snake-dark.svg)
