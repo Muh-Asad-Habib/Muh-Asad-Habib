@@ -70,7 +70,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonighthide_border=true&border_radius=10"
   />
 </p>
 
