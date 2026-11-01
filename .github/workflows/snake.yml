@@ -55,8 +55,8 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           # High-contrast palettes: eaten cells revert to the first (empty) color.
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F59E0B&color_dots=#E2E8F0,#7DD3FC,#38BDF8,#0284C7,#075985
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FACC15&color_dots=#1E293B,#0369A1,#0EA5E9,#38BDF8,#BAE6FD
+            dist/github-contribution-grid-snake.svg?color_snake=#0F172A&color_dots=#E2E8F0,#BAE6FD,#7DD3FC,#38BDF8,#0284C7
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#E0F2FE&color_dots=#1E293B,#0C4A6E,#0369A1,#0284C7,#38BDF8
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
