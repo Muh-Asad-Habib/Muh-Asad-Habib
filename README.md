@@ -46,7 +46,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" width="30"/> Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge&logo=css3&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Responsive_Design-111827?style=for-the-badge&logo=css&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/Modern_UI-111827?style=for-the-badge&logo=figma&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/Java_Programming-111827?style=for-the-badge&logo=openjdk&logoColor=38BDF8"/>
   <img src="https://img.shields.io/badge/Python_Dev-111827?style=for-the-badge&logo=python&logoColor=38BDF8"/>
@@ -58,12 +58,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="30"/> GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muh-Asad-Habib&show_icons=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=true" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" />
+  <img height="180" src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muh-Asad-Habib&layout=compact&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0F172A,50:38BDF8,100:0F172A" width="100%"/>
