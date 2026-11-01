@@ -71,7 +71,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" width="30"/> Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/github-contribution-grid-snake.svg" alt="Snake eating contribution graph" />
+  </picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0F172A,50:38BDF8,100:0F172A" width="100%"/>

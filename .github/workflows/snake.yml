@@ -53,7 +53,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # High-contrast palettes: eaten cells revert to the first (empty) color.
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#F59E0B&color_dots=#E2E8F0,#7DD3FC,#38BDF8,#0284C7,#075985
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#FACC15&color_dots=#1E293B,#0369A1,#0EA5E9,#38BDF8,#BAE6FD
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
