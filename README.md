@@ -58,12 +58,12 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="30"/> GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/stats.svg" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/stats.svg" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8&hide_border=true&card_width=495&card_height=195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/top-langs.svg" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/top-langs.svg" alt="Top Languages" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0F172A,50:38BDF8,100:0F172A" width="100%"/>

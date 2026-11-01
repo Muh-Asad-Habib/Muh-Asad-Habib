@@ -23,7 +23,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&card_width=495&theme=tokyonight&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&hide_border=true
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,9 +31,24 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&hide_border=true
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&card_width=495&theme=tokyonight&title_color=38BDF8&text_color=94A3B8&hide_border=true
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Pad cards to 495x195 so they match the streak card in the README.
+      - name: Normalize card height
+        shell: python
+        run: |
+          import re, pathlib
+          for name in ("stats.svg", "top-langs.svg"):
+              p = pathlib.Path("dist") / name
+              svg = p.read_text()
+              tag = re.search(r"<svg\b[^>]*>", svg).group(0)
+              h = int(float(re.search(r'\bheight="([\d.]+)"', tag).group(1)))
+              if h < 195:
+                  new = re.sub(r'\bheight="[\d.]+"', 'height="195"', tag, count=1)
+                  new = re.sub(r'viewBox="0 0 ([\d.]+) [\d.]+"', r'viewBox="0 0 \1 195"', new, count=1)
+                  p.write_text(svg.replace(tag, new, 1))
 
       - uses: Platane/snk@v3
         with:
