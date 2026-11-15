@@ -59,7 +59,7 @@
 
 <p align="center">
   <img width="49%" src="https://raw.githubusercontent.com/Muh-Asad-Habib/Muh-Asad-Habib/output/stats.svg" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&background=0D1117&stroke=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=94A3B8&dates=94A3B8&hide_border=true&card_width=495&card_height=195" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Muh-Asad-Habib&theme=tokyonight&background=0D1117&stroke=EF4444&currStreakNum=EF4444&sideNums=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=94A3B8&dates=94A3B8&hide_border=true&card_width=495&card_height=195" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -86,16 +86,16 @@
 
 | Icon | Mission | Status |
 | :---: | :--- | :---: |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="25"/> | Build high-performance, responsive web apps | ðŸ—ï¸ |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" width="25"/> | Master advanced UI/UX principles | ðŸŽ¨ |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" width="25"/> | Obtain Cyber Security & MTCNA Certifications | ðŸ“š |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> | Contribute to impactful open-source projects | ðŸŒŸ |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="25"/> | Build high-performance, responsive web apps | 🏗️ |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" width="25"/> | Master advanced UI/UX principles | 🎨 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Locked%20With%20Key.webp" width="25"/> | Obtain Cyber Security & MTCNA Certifications | 📚 |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="25"/> | Contribute to impactful open-source projects | 🌟 |
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:18181B,50:EF4444,100:18181B" width="100%"/>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="25"/> Keep Learning â€¢ Keep Building â€¢ Keep Growing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="25"/> Keep Learning • Keep Building • Keep Growing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" width="25"/>
 </h3>
 
